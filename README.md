@@ -1,5 +1,3 @@
 # final_project-decal
-# final_project-decal
-# final_project-decal
-adksfjlfjladjlfjaldjfld
-this is my final project
+
+this is my final project, it grabs the cube on the plane, and when the cube exit the area of the pink plane, the player score one point.
